@@ -1,4 +1,4 @@
-/*Function to repeat input by number of times*/
+/* Function to repeat input by number of times */
 function repeatStr(str,num) {
 console.log("result:",str.repeat(num));
 }
